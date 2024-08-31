@@ -1,8 +1,6 @@
-# Let's Connect!
+# Благодійний Фонд ШЕЛТЕР ПЛЮС (Кривий Ріг)
 
-- [<i class="fab fa-twitter"></i><span>Twitter</span>](https://twitter.com/)
-- [<i class="fab fa-linkedin"></i><span>LinkedIn</span>](https://linkedin.com/)
-- [<i class="fab fa-github"></i><span>GitHub</span>](https://github.com/)
-- [<i class="fab fa-youtube"></i><span>YouTube</span>](https://youtube.com/)
-- [<i class="fas fa-envelope"></i><span>Email</span>](mailto:example@email.com)
-- [<i class="fas fa-calendar"></i><span>Book a Call</span>](https://tidycal.com/leiflatiff/discovery)
+- [<i class="fab fa-facebook"></i><span>Facebook</span>](https://www.facebook.com/shelterplus.ua)
+- [<i class="fab fa-instagram"></i><span>Instagram</span>](https://www.instagram.com/shelterplus/)
+- [<i class="fab fa-youtube"></i><span>YouTube</span>](https://www.youtube.com/@ShelterPlus)
+- [<i class="fas fa-envelope"></i><span>Email</span>](mailto:info@shelter-plus.com)
